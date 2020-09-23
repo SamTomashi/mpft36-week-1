@@ -1,3 +1,10 @@
 p{
     font-size: 50px;
 }
+
+.container{
+    margin:2px auto;
+    width: 500px;
+    padding:auto;
+    
+}
