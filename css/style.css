@@ -8,3 +8,13 @@ p{
     padding:auto;
     
 }
+
+.login{
+    border:solid #0000006e 1px;
+    height:400px;
+    margin-top: 200px;
+}
+
+.login input{
+    display:block;
+}
